@@ -4,4 +4,4 @@
 
 2. 영화추천_FunkSVD 알고리즘 + 네이버 영화 크롤링: https://github.com/flrain2/Study/blob/main/movie_recommend(funkSVD).ipynb
 
-3. okt를 이용해 형태소분석(): https://github.com/flrain2/Study/blob/main/konlp_csv_okt.ipynb
+3. okt를 이용해 형태소분석(csv file): https://github.com/flrain2/Study/blob/main/konlp_csv_okt.ipynb
